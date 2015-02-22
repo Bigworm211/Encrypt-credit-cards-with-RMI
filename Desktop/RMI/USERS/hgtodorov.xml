@@ -1,0 +1,5 @@
+<server.User>
+  <username>hgtodorov</username>
+  <password>12345</password>
+  <privilige>ENCRYPT_AND_DECRYPT</privilige>
+</server.User>

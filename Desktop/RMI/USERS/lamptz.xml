@@ -1,0 +1,5 @@
+<server.User>
+  <username>lamptz</username>
+  <password>myworld123</password>
+  <privilige>ENCRYPT</privilige>
+</server.User>

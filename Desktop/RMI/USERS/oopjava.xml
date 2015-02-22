@@ -1,0 +1,5 @@
+<server.User>
+  <username>oopjava</username>
+  <password>examday</password>
+  <privilige>DECRYPT</privilige>
+</server.User>

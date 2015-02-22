@@ -1,0 +1,4 @@
+-----------------***Report - 1424555280924***---------------------
+Bank Card			|Encrypted bank cards
+--------------------------------------------------------------------------
+====Note: The report is ordered by Encrypted cards!====
