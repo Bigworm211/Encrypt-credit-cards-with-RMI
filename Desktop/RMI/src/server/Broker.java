@@ -20,6 +20,7 @@ public class Broker {
     public static void main(String args[]){
            try{
             rmiMessage = new ClientServiceUtillity();
+            //Change the port
             reg = LocateRegistry.createRegistry(1100);
             reg.rebind("ClientServiceUtillity", rmiMessage);
             
